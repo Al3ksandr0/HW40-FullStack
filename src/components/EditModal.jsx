@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { Modal, Form, Input } from "antd";
 import validatePhone from "./validatePhone";
+import validateName from "./validateName";
 
 // тут редачим в модалке
 function EditModal({ open, onCancel, onSave, contact }) {
