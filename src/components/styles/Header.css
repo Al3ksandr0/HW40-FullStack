@@ -1,0 +1,17 @@
+.header-container {
+    display: flex;
+    margin-top: 0.5rem;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+    justify-content: center;
+}
+
+.header-container button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    background-color: #1677ff;
+    color: white;
+}
